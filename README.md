@@ -2,6 +2,7 @@
 
 To learn more about the how to increment versions for Maven build Java project, you may refer to my following Medium articles:
 - [How To Increment Versions For Maven Build Java Project — Part 1](https://weikangchia.medium.com/how-to-increment-versions-for-the-maven-build-java-project-a7596cc501c2)
+- [How To Increment Versions For Maven Build Java Project — Part 2](https://weikangchia.medium.com/how-to-increment-versions-for-maven-build-java-project-part-2-eefdebc53f5b)
 
 ## Branches
 
