@@ -7,3 +7,4 @@ To learn more about the how to increment versions for Maven build Java project, 
 
 1. [steps/1-add-plugins](https://github.com/weikangchia/increment-version-maven/tree/steps/1-add-plugins)
 2. [steps/2-part1-complete](https://github.com/weikangchia/increment-version-maven/tree/steps/2-part1-complete)
+3. [steps/3-part2-complete](https://github.com/weikangchia/increment-version-maven/tree/steps/3-part2-complete)
